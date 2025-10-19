@@ -74,6 +74,7 @@ a.   KVL:
 b.  KCL:
 
 ![WhatsApp Image 2025-10-19 at 11 06 22_d8561bb1](https://github.com/user-attachments/assets/c6094176-6f6d-4fa6-8182-6404a2484da8)
+
 ![WhatsApp Image 2025-10-19 at 11 06 23_b987d476](https://github.com/user-attachments/assets/01cc0f95-cec6-4d4f-84a2-c07f8a4fbbc2)
 
 
@@ -83,17 +84,20 @@ b.  KCL:
 Tabulation:
 
 a.   KVL:
+
 ![WhatsApp Image 2025-10-19 at 11 06 20_d045e383](https://github.com/user-attachments/assets/fea2c46e-61f4-4f65-ab13-2b69deb07eea)
 
  
 
 
 b.  KCL:
+
 ![WhatsApp Image 2025-10-19 at 11 06 21_2d5319ac](https://github.com/user-attachments/assets/cf5a9753-0bc0-4d95-854d-abc732c34b5c)
 
 
 
 
 RESULT:
+
 
 Thus, for the given circuit, Kirchhoff’s Laws, (a) KVL and (b) KCL are proved.
